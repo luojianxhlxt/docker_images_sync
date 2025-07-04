@@ -1,1 +1,1 @@
-ghostchu/peerbanhelper:v7.4.15
+justarchi/archisteamfarm:6.1.7.8
