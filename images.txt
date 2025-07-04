@@ -1,1 +1,1 @@
-linuxserver/qbittorrent:5.1.2
+superng6/qbittorrentee:5.1.1.10
