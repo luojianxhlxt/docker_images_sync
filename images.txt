@@ -1,1 +1,1 @@
-jeessy/ddns-go:v6.11.1
+linuxserver/qbittorrent:5.1.2
